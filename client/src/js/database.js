@@ -11,7 +11,6 @@ const initdb = async () =>
       console.log('jate database created');
     },
   });
-
 // xTODO: Add logic to a method that accepts some content and adds it to the database
 export const putDb = async (content) => {
   console.log('PUT to the database');
@@ -22,8 +21,6 @@ export const putDb = async (content) => {
   const result = await request;
   console.log('🚀 - data saved to the database', result);
 };
-
-
 // xTODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => {
   console.log('GET all from the database');
