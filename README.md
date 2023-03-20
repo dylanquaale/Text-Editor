@@ -2,7 +2,7 @@
 
 https://nameless-fortress-37560.herokuapp.com/
 
-
+https://github.com/dylanquaale/Text-Editor
 
 ## Table of Contents
 
@@ -47,8 +47,7 @@ ASK BCS
 
 ### Description
 
-The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
-
+The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. This app is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can save them for later use.
 
 ### Contribution
 Go to my github download and unzip the file. load file locally and you should be good to go. 
