@@ -14,6 +14,7 @@ https://github.com/dylanquaale/Text-Editor
 - [Questions](#questions)
 
 ### Installation
+
 Npm I
 
 express,
@@ -27,13 +28,16 @@ npm packages,
 Node.js
 
 ### Usage
+
 This a text editor that will allow users to save text that they do not wish to loose.
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 We are using webpacks to generate the page.
+
 ### Credits
-Collabs: 
+
+Collabs:
 
 Krister: https://github.com/kristermyr,
 
@@ -54,10 +58,12 @@ The app is a single-page application that meets the PWA criteria. Additionally, 
 
 The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
->>>>>>> 42bd07b14b6bc8a8793160c49eea070cb48efb16
+> > > > > > > 42bd07b14b6bc8a8793160c49eea070cb48efb16
 
 ### Contribution
-Go to my github download and unzip the file. load file locally and you should be good to go. 
-### Questions
-Questions are directed to my email  
 
+Go to my github download and unzip the file. load file locally and you should be good to go.
+
+### Questions
+
+Questions are directed to my email
