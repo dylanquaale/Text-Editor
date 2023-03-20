@@ -47,6 +47,8 @@ ASK BCS
 
 ### Description
 
+<img width="866" alt="Screenshot 2023-03-20 at 11 45 27 AM" src="https://user-images.githubusercontent.com/93456860/226410077-d3a7696a-d236-420c-afad-b744eafe8893.png">
+
 The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
 
