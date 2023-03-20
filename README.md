@@ -1,5 +1,9 @@
 # Text-Editor
 
+https://nameless-fortress-37560.herokuapp.com/
+
+
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -16,8 +20,18 @@ express,
 
 webpack,
 
+nodemon,
+
+npm packages,
+
+Node.js
+
 ### Usage
-users are able to create themselves and leaves thoughts and reactions to one another post you could say
+This a text editor that will allow users to save text that they do not wish to loose.
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
+We are using webpacks to generate the page.
 ### Credits
 Collabs: 
 
@@ -31,8 +45,10 @@ PWA mini project,
 
 ASK BCS
 
-
 ### Description
+
+The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
+
 
 ### Contribution
 Go to my github download and unzip the file. load file locally and you should be good to go. 
